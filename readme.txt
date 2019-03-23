@@ -1,3 +1,2 @@
-简单的.net core 框架简单的.net core 框架 ec简易框架
+简单的.net core 框架  简称：ec框架
 
-王涛测试
